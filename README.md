@@ -6,4 +6,5 @@ Topics covered:
 - Loops
 - Functions
 - Simple mini projects
+
 This repo represents my learning progress and growth.
